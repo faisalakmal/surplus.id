@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>failed to register with invalid format email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f68aef85-0b61-4975-93e9-42caf165a56b</testCaseGuid>
+</TestCaseEntity>
